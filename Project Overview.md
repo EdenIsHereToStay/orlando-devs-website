@@ -38,7 +38,11 @@ Our vision is to create a **state-of-the-art website** that:
 - Integrate an **event calendar** that pulls data from Eventbrite and Slack.
 - Build a platform that allows **easy maintenance** and content updates.
 - Implement **AI-driven features** that enhance personalization and user engagement.
-  
+
+New Additions:
+- Establish a **progressive web app (PWA)** experience to enhance user interaction across devices.
+- Implement **real-time notifications** for events and important updates through Web Push Notifications or integrated messaging.
+
 ### **3. Tech Stack**
 
 The project is built on a flexible and scalable tech stack that encourages open-source contributions:
@@ -50,6 +54,11 @@ The project is built on a flexible and scalable tech stack that encourages open-
 - **Version Control**: **GitHub** – all project milestones, issues, and pull requests will be managed here.
 - **Design Tools**: **Figma** – for UI/UX design collaboration, ensuring the site is visually cohesive and user-friendly.
 - **Collaboration & API Integrations**: **Slack** and **Eventbrite API** for events, job boards, and real-time community updates.
+
+New Additions:
+- **Database Options**: **Supabase** or **FaunaDB** may be considered for event data caching or storing community-related content.
+- **Analytics & Monitoring**: **Google Analytics 4** with custom event tracking for better insight into user interactions.
+- **Automated Accessibility Testing**: **Pa11y** or **Axe** for ensuring compliance with accessibility standards.
 
 ### **4. Team Member Roles and Responsibilities**
 
@@ -83,6 +92,10 @@ Manny will support the **AI integration** aspects of the project, including pers
 **Christopher Pecoraro (Web Development & Scalability)**:  
 Christopher will ensure that the site is **scalable** and can handle future growth, providing enterprise-level insights into its infrastructure and performance.
 
+New Addition:
+- **Jasmin Singh (Content Strategy & SEO)**:  
+Jasmin will focus on **content optimization** and **SEO best practices** to ensure the website reaches a broader audience and ranks well on search engines.
+
 ---
 
 ### **5. Roadmap and Development Timeline**
@@ -103,6 +116,9 @@ Christopher will ensure that the site is **scalable** and can handle future grow
 - Full deployment on Netlify.
 - Post-launch, regular updates and community contributions will be encouraged.
 
+New Addition:
+- **Post-Launch Enhancements**: A **feedback-driven improvement cycle** will be initiated after launch, allowing the team to adjust features based on user input, and gradually introduce **new capabilities** like real-time updates, job matching, and more personalized AI features.
+
 ---
 
 ### **6. Current Tasks and Milestones**
@@ -112,6 +128,10 @@ Christopher will ensure that the site is **scalable** and can handle future grow
 - **AI Features**: Manny is working on the content personalization aspects of the site, utilizing AI for enhanced user engagement.
 - **GitHub Tracking**: Mike is setting up milestones and issues in GitHub, where team members will track tasks and contribute to code.
 
+New Additions:
+- **Content Strategy**: Jasmin is developing an **SEO-focused content plan** to ensure that community events, news, and updates are indexed effectively.
+- **Hackathon Planning**: Bharat is coordinating with Eddie on the potential **Orlando Devs Hackathon** to engage the broader community.
+
 ---
 
 ### **7. Key Features**
@@ -120,7 +140,11 @@ Christopher will ensure that the site is **scalable** and can handle future grow
 - **Job Board**: We’re developing a job board to connect local developers with career opportunities.
 - **Responsive Design**: The site will be fully responsive, offering a seamless experience on both desktop and mobile devices.
 - **AI-driven Recommendations**: Manny will implement AI-powered features that deliver personalized content to users based on their activity and preferences.
-  
+
+New Additions:
+- **Progressive Web App (PWA)**: The team is working on a PWA version of the site to improve performance on mobile devices and allow for **offline browsing**.
+- **Real-Time Notifications**: Web push notifications for community events and urgent updates.
+
 ---
 
 ### **8. Communication & Collaboration Channels**
@@ -128,7 +152,9 @@ Christopher will ensure that the site is **scalable** and can handle future grow
 - **Slack Channel**: `#2024-website-update-project` for daily communication and updates.
 - **GitHub Repository**: [GitHub Repo](https://github.com/EdenIsHereToStay/orlando-devs-website) for issue tracking, pull requests, and contributions.
 - **Figma**: [Figma Design Concepts](https://www.figma.com/design/8YAszYoGniXwG99w0ziIFb/ODevs-Site-Redesign?node-id=0-1&t=RFPEaETB1rgBv71n-1) for mockups and UI/UX collaboration.
-- **Google Drive**: [Website Refresh Team Google Drive Share](https://drive.google.com/drive/folders/1jFHZytqWlEXaceykN9PhjTvrVudFRjez?usp=drive_link) for important documents and design assets.
+- **Google Drive**: [Website Refresh Team Google Drive Share](https://drive.google.com/drive/folders/1jFHZytq
+
+WlEXaceykN9PhjTvrVudFRjez?usp=drive_link) for important documents and design assets.
 
 ---
 
@@ -140,6 +166,10 @@ Since the team is still forming and we’re waiting for confirmation from a few 
 2. **Review the Figma Designs**: If you’re a designer or frontend developer, review the [Figma concepts](https://www.figma.com/design/8YAszYoGniXwG99w0ziIFb/ODevs-Site-Redesign?node-id=0-1&t=RFPEaETB1rgBv71n-1) and provide feedback or suggestions.
 3. **Contribute to the Event Integration**: If you’re a backend or API-focused developer, work with Robert on integrating the Eventbrite API.
 4. **Suggest Meeting Times**: We’ll need to establish a weekly 30-60 minute check-in. If you have a preferred time, let the team know in Slack, and we’ll coordinate to find a regular slot that works for everyone.
+
+New Additions:
+- **Hackathon Participation**: Stay tuned for Bharat’s hackathon updates if you’re interested in contributing through that format.
+- **Content Contribution**: If you have writing or SEO skills, collaborate with Jasmin to ensure content is optimized and relevant.
 
 ---
 
