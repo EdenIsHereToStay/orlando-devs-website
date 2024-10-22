@@ -92,6 +92,12 @@ Manny will support the **AI integration** aspects of the project, including pers
 **Christopher Pecoraro (Web Development & Scalability)**:  
 Christopher will ensure that the site is **scalable** and can handle future growth, providing enterprise-level insights into its infrastructure and performance.
 
+**Nick Walsh (UI/UX & Design Consultant)**:
+Nick brings his extensive experience in UI/UX design to the project, helping to shape the look and feel of the new Orlando Devs website. His role involves crafting a modern, intuitive design that balances functionality with a clean aesthetic, ensuring the site not only looks great but is also highly user-friendly. Nick will collaborate closely with the design and frontend teams, providing feedback and refining design concepts to align with the project's goals. His insights will help elevate the overall user experience for the Orlando Devs community.
+
+Nick brings his extensive experience in UI/UX design to the project, helping to shape the look and feel of the new Orlando Devs website. His role involves crafting a modern, intuitive design that balances functionality with a clean aesthetic, ensuring the site not only looks great but is also highly user-friendly. Nick will collaborate closely with the design and frontend teams, providing feedback and refining design concepts to align with the project's goals. His insights will help elevate the overall user experience for the Orlando Devs community.
+
+
 New Addition:
 - **Jasmin Singh (Content Strategy & SEO)**:  
 Jasmin will focus on **content optimization** and **SEO best practices** to ensure the website reaches a broader audience and ranks well on search engines.
